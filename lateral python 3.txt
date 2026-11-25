@@ -1,2 +1,0 @@
-marks=int(input("enter your marks"))
-if marks>100
